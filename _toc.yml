@@ -5,10 +5,11 @@
 
 - part: The Course
   chapters:
-  - file: book/schedule
-    title: Course Schedule
   - file: book/syllabus
     title: Course Syllabus
+  - file: book/schedule
+    title: Course Schedule
+
 
 - part: Open Educational Directory
   chapters:
