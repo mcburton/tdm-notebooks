@@ -5,8 +5,8 @@
 
 #######################################################################################
 # Book settings
-title                       : Teaching Text Analysis with Constellate  # The title of the book. Will be placed in the left navbar.
-author                      : Nathan Kelber and Ted Lawless  # The author of the book
+title                       : Teaching Text Analysis with Constellate AND PYTHON # The title of the book. Will be placed in the left navbar.
+author                      : Nathan Kelber and Ted Lawless AND MATT # The author of the book
 copyright                   : "None"  # Copyright year to be placed in the footer
 logo                        : "book/img/constellate-beta.png" #logo.png  # A path to the book logo
 exclude_patterns            : [Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
